@@ -1,9 +1,6 @@
-### Hi there 👋
+
 ![c'estDavid](https://user-images.githubusercontent.com/94442434/191039830-b1456244-6681-4096-81d6-e781172f3c47.svg)
-[yo]  (/asset/image/c'estDavid.svg)
-(/asset/image/david.png)
-(/../asset/image/david.png)
-<!--
+
 **DavidBonvin/DavidBonvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
