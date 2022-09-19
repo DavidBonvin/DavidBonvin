@@ -7,9 +7,9 @@
 
 ## Mes competences 
 
-|*PHP             |      Symfony     |             |   AJAX        |       Git       |
-|JavaScript      |      React       |    SQL      |    JSON       |       Linux     |    
-|Swift (iOS)	   |                  |             |               |                 |
+*PHP                   *Symfony         * SQL           * AJAX             * Git       
+*JavaScript            *React                           * JSON             * Linux         
+*Swift (iOS)	                                                                 
                                                                     
 
 * Méthodologie Scrum (Agile)       
