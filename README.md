@@ -6,11 +6,12 @@
 * Actuellement je suis en formation DWWM à l’AFPA de ROUBAIX, et  je suis à la recherche d’un stage du (9-nov-2022  à  7 - dec-2022)  pour valider mon titre Professionnel Bac +2  en tant que Développeur full stack en Frace.
 
 ## Mes competences 
-
-*PHP                   *Symfony         * SQL           * AJAX             * Git       
-*JavaScript            *React                           * JSON             * Linux         
-*Swift (iOS)	                                                                 
-                                                                    
+* Lengagues : PHP,      JavaScript,     Swift (iOS)
+* FrameWorks :         Symfony,       React
+* Database :   SQL,    
+* Tegnologies:        AJAX,      JSON       
+* Versiones :   Git,       
+                                                                                                               
 
 * Méthodologie Scrum (Agile)       
 
