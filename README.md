@@ -7,7 +7,7 @@
 
 ## Mes competences 
 
-|PHP             |      Symfony     |             |   AJAX        |       Git       |
+|*PHP             |      Symfony     |             |   AJAX        |       Git       |
 |JavaScript      |      React       |    SQL      |    JSON       |       Linux     |    
 |Swift (iOS)	   |                  |             |               |                 |
                                                                     
