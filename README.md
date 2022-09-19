@@ -1,16 +1,8 @@
 
 ![c'estDavid](https://user-images.githubusercontent.com/94442434/191039830-b1456244-6681-4096-81d6-e781172f3c47.svg)
 
-**DavidBonvin/DavidBonvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un jeune développeur Full Stack, j’ai fais un projet file rouge utilisant PHP, JavaScript, React et MySQL, j’utilise la méthodologie agile et j’ai de bonne relation interpersonnelles (soft skill). 
+Je recherche un stage pour valider mon titre professionnel de niveau 5 en tant que Développeur Web et Web Mobile, je suis autodidacte et curieux des paradigmes  de programmation.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning  symfony 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
