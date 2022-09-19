@@ -1,5 +1,7 @@
 ### Hi there 👋
 [yo]  (/asset/image/c'estDavid.svg)
+(/asset/image/david.png)
+(/../asset/image/david.png)
 <!--
 **DavidBonvin/DavidBonvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
